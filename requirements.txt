@@ -1,0 +1,22 @@
+# Lab 1: Extraction & NLP
+httpx
+trafilatura
+spacy
+spacy-transformers
+pandas
+
+# Lab 2: Knowledge Graph Construction
+rdflib
+requests
+SPARQLWrapper
+
+# Lab 3: Reasoning & Embeddings
+owlready2
+numpy
+pykeen
+matplotlib
+scikit-learn
+torch
+
+# Lab 4: Chatbot RAG
+# nothing more
